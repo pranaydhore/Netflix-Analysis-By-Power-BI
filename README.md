@@ -2,7 +2,7 @@
   <h1>Netflix Analysis Using Power BI</h1>
 
   <h2>1. Introduction</h2>
-  <p>This project involves analyzing Netflix data using Power BI and DAX to gain insights into content distribution, genre trends, release patterns, and regional performance. The dataset includes movie and TV show details, such as titles, genres, release years, and countries of origin.</p>
+  <p>This project involves analyzing Netflix data using Power BI and DAX to gain insights into content distribution, genre trends, release patterns, and regional performance. The dataset includes movie and TV show details, such as titles, genres, release years, and countries of origin. Netflix analysis using Power BI offers a comprehensive view of the company's performance, content, and user engagement, helping stakeholders make data-driven decisions. Power BI, a powerful business analytics tool from Microsoft, can extract, transform, and visualize vast amounts of data to reveal trends, insights, and patterns. By analyzing Netflix data through Power BI, the company and its partners can optimize content offerings, improve user experience, and enhance profitability. Below is a detailed breakdown of how Netflix analysis can be conducted using Power BI.</p>
 
   <h2>2. Dataset Overview</h2>
   <p>The dataset, <code>netflix.csv</code>, contains the following key columns:</p>
